@@ -13,4 +13,4 @@
 ## Dataset
  This project was carried out with the Melon dataset released by Kakao.
  
- https://kakao.github.io/recoteam/arena/melon![image](https://github.com/tiemhub/ReinforcementLearning/assets/52905720/19e5ee05-174f-4793-bbac-f8393287be69)
+ https://kakao.github.io/recoteam/arena/melon
